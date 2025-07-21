@@ -1,0 +1,23 @@
+header:food
+Empanadas con carne	$8
+Empanadas con Q.hebra	$10
+Panuchós	$18
+Salbutes	$18
+Sopes	$25
+Polcanes sencillos	$8
+Polcanes rellenos con carne	$20
+Polcanes rellenos con carne y queso	$25
+Tortas (Bolillo)	$35
+Tortas especiales(jamón, queso y pollo)	$38
+Sandwiches	$25
+Sandwiches especiales	$28
+Hamburguesas sencilla	$55
+Hamburguesas con papas	$65
+Burritacos	$20
+Burritas	$15
+
+header:drinks
+Bebidas
+Coke Lite 600ml	$30
+Pepsi light	$35
+Jamaiica	$20

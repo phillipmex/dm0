@@ -1,0 +1,55 @@
+header:food
+Empanadas con carne	    					$8
+Empanadas con Q.hebra					    $10
+Panuchós									$18
+Panuchos doble								$555
+Salbutes									$18
+Sopes										$25
+Polcanes sencillos							$8
+Polcanes rellenos con carne					$20
+Polcanes rellenos con carne y queso			$25
+Tortas (Bolillo)							$35
+Tortas especiales (jamón, queso y pollo)	$38
+Sandwiches									$25
+Sandwiches especiales						$28
+Hamburguesas sencilla						$55
+Hamburguesas con papas						$65
+Burritacos									$20
+Burritas									$15
+zzebras										$999
+
+header:drinks
+Bebidas
+Coke Lite 600ml								$30
+Pepsi light									$35
+Jamaiica									$20
+
+**********
+*Martes a Domingo
+-Tipos de carne:
+1)Pollo
+2)Milanesa de cerdo empanizada
+3)Milanesa de cerdo roja (frita)
+------
+*Sábado y domingo:
+1)Todas las anteriores	
+2)Relleno negro (pollo)						$20 
+------
+Los sábados contamos con:	
+*Platillos fiesta							$50
+(Sandwichon, Sopa fría y Arrolladito)	
+*Sandwichon	
+1)Rebanada grande	$40 
+******	
+*Los miércoles son de:	
+Sopa fría-plato								$40 
+	
+*Los jueves son de:
+**Ensalada de verdura plato					$40	
+
+Bebidas
+Coke Lite 600ml								$30
+
+
+
+Polcanes sencillos							$8
